@@ -1,0 +1,51 @@
+#start-btn
+{
+    background-color: yellowgreen;
+    color: indianred;
+    font-family: 'Satisfy', cursive;
+    width: 40%;
+} 
+#camera
+{
+    color: indianred;
+    font-family: 'Satisfy', cursive;
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    color: indianred;
+    font-family: 'Satisfy', cursive;
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    font-family: 'Satisfy', cursive;
+    width: 300px;
+    color: indianred;
+}
+h1 {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+h4 {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+h3 {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+label {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+#p {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+textarea {
+    float: none;
+}
